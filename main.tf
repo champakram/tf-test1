@@ -42,3 +42,5 @@ resource "aws_instance" "tc_instance" {
     Name = "TC-triggered-instance1"
   }
 }
+
+#
